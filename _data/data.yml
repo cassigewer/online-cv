@@ -15,7 +15,7 @@ sidebar:
     email: cassigewer@gmail.com
     phone: +27 84 202 8814
     # website: blog.webjeda.com #do not add http://
-    linkedn: <a href="https://www.linkedin.com/in/cassi-lee-gewer-085258192/">LinkedIn</a>.
+    linkedn: https://www.linkedin.com/in/cassi-lee-gewer-085258192/
     github: https://github.com/cassigewer
     # gitlab:
     #bitbucket:
@@ -59,7 +59,6 @@ career-profile:
     title: Career Profile
     summary: |
       Cassi is an honours' student in Neuroscience at the Univeristy of the Witwatersrand.
-      
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
