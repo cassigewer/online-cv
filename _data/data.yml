@@ -124,9 +124,7 @@ experiences:
       time: 2019 - Present
       company: think3dots 
       details: |
-This multidisciplinary internship was based in a biomedical engineering consultancy firm founded by Mr Adam Pantanowitz. Within the internship I am tasked to code, design and develop machine learning models within the healthcare sector. Use HTML, Django, Java and RubyRails to code a website and host it online. Develop cloud computing skills on amazon's AWS Sagemaker. Learning new skills, brain related software and programming languages is encouraged - as well as facing the prevalent issues within society such as the current COVID-19, medical data and health related neuroscience topics (brain-computer interface). All responsibilities and projects revolve around the healthcare and education spheres within South Africa with a greater goal of benefiting society by the use of technology. 
-          - Bullet point
-          - Bullet point
+This multidisciplinary internship was based in a biomedical engineering consultancy firm founded by Mr Adam Pantanowitz. Within the internship I am tasked to code, design and develop machine learning models within the healthcare sector. Use HTML, Django, Java and RubyRails to code a website and host it online. Develop cloud computing skills on amazon's AWS Sagemaker. Learning new skills, brain related software and programming languages is encouraged - as well as facing the prevalent issues within society such as the current COVID-19, medical data and health related neuroscience topics (brain-computer interface). All responsibilities and projects revolve around the healthcare and education spheres within South Africa with a greater goal of benefiting society by the use of technology 
     - role: Intern
       time: 20/11/2018 - 01/02/2018 
       company: MinPET - RC Physics, Univeristy of Johannesburg 
@@ -148,7 +146,6 @@ This multidisciplinary internship was based in a biomedical engineering consulta
         Assisted with the running of experiments using the Random Dot Kinematogram system within a feature attentional sampling experiment, eye-link tracking device and EEG (electroencephalogram). Gained insight and introductory level knowledge into the use of Matlab and Python coding systems. Consistent practice of ethical testing within a lab during experimentation, data saving and data collection. Underwent formal training regarding the setup of an EEG device (using both passive and active electrons) with accurate placing and readings of the brainwaves involved.
           - Bullet point
           - Bullet point
-
     - role: Aupair, Academic Tutor & Art Teacher 
       time: 01/01/2017 - 31/12/2019
       company: Netcare Linksfield Hospital, Netcare Sunninghill Hospital, Netcare Linksfield Hospital 
@@ -159,7 +156,7 @@ This multidisciplinary internship was based in a biomedical engineering consulta
           - Bullet point
  achievments and awards:
     title: Neuroscience, Machine Learning and Addiction 
-    intro: >
+    intro:
      Current research project for honours' thesis is supervised by Dr Tanya Calvey, Professor Benjamin Rosman and Mr Nhanisi Ndlovu. 
      This research project is multidisciplinary and cross faculty between the School of Anatomical Sciences and the School of Applied Mathematics and Computer Science. 
     # assignments:
