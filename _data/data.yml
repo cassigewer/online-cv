@@ -157,6 +157,16 @@ This multidisciplinary internship was based in a biomedical engineering consulta
         Hand painted oil paintings of various subject matter, painted on commission according to order. 
           - Bullet point
           - Bullet point
+ achievments and awards:
+    title: Neuroscience, Machine Learning and Addiction 
+    intro: >
+     Current research project for honours' thesis is supervised by Dr Tanya Calvey, Professor Benjamin Rosman and Mr Nhanisi Ndlovu. 
+     This research project is multidisciplinary and cross faculty between the School of Anatomical Sciences and the School of Applied Mathematics and Computer Science. 
+    # assignments:
+      #- title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
 projects:
     title: Neuroscience, Machine Learning and Addiction 
     intro: >
