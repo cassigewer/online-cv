@@ -58,11 +58,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-   Currently an honours' student in a BHSc Neuroscience at the Univeristy of the Witwatersrand.
-    A woman dedicated to neuroscience, machine learning and the combination of the two. From cognitive to computational neuroscience, I seek to fill my days discovering the intricacies of the human neuronal composition. With a heart in academia, the Fourth Industrial Revolution and internationalisation - I integrate my love for brain science in whatever I do.
-    I am a strong advocate for multidisciplinary and interdisciplinary work, and do so by attempting to synthesize my background in Humanities’ study with my current role in engineering, computer science, applied mathematics and neurobiology.
-    I dedicate my time toward instilling creative pathways within the world of science. I aspire and am open to gain as much experience as possible in order to be at the forefront of neuroscience.
-    When I am not studying the human brain or artificial intelligence models, you will find me with a paintbrush in hand, at a community event or volunteering for a cause.
+   Currently an honours' student in a BHSc Neuroscience at the Univeristy of the Witwatersrand. A woman dedicated to neuroscience, machine learning and the combination of the two. From cognitive to computational neuroscience, I seek to fill my days discovering the intricacies of the human neuronal composition. With a heart in academia, the Fourth Industrial Revolution and internationalisation - I integrate my love for brain science in whatever I do. I am a strong advocate for multidisciplinary and interdisciplinary work, and do so by attempting to synthesize my background in Humanities’ study with my current role in engineering, computer science, applied mathematics and neurobiology. 
+   I dedicate my time toward instilling creative pathways within the world of science. I aspire and am open to gain as much experience as possible in order to be at the forefront of neuroscience.
+   When I am not studying the human brain or artificial intelligence models, you will find me with a paintbrush in hand, at a community event or volunteering for a cause.
 education:
     - degree: Bachelor Health Sciences (BHSc) (Honours) Neuroscience 
       university: University of the Witwatersrand
@@ -123,42 +121,39 @@ experiences:
     - role: Intern - Neuroscience Investigator and Machine Learning Engineer 
       time: 2019 - Present
       company: think3dots 
-      details: |
-This multidisciplinary internship was based in a biomedical engineering consultancy firm founded by Mr Adam Pantanowitz. Within the internship I am tasked to code, design and develop machine learning models within the healthcare sector. Use HTML, Django, Java and RubyRails to code a website and host it online. Develop cloud computing skills on amazon's AWS Sagemaker. Learning new skills, brain related software and programming languages is encouraged - as well as facing the prevalent issues within society such as the current COVID-19, medical data and health related neuroscience topics (brain-computer interface). All responsibilities and projects revolve around the healthcare and education spheres within South Africa with a greater goal of benefiting society by the use of technology 
+      details: This multidisciplinary internship was based in a biomedical engineering consultancy firm founded by Mr Adam Pantanowitz. Within the internship I am tasked to code, design and develop machine learning models within the healthcare sector. Use HTML, Django, Java and RubyRails to code a website and host it online. Develop cloud computing skills on amazon's AWS Sagemaker. Learning new skills, brain related software and programming languages is encouraged - as well as facing the prevalent issues within society such as the current COVID-19, medical data and health related neuroscience topics (brain-computer interface). All responsibilities and projects revolve around the healthcare and education spheres within South Africa with a greater goal of benefiting society by the use of technology 
     - role: Intern
       time: 20/11/2018 - 01/02/2018 
       company: MinPET - RC Physics, Univeristy of Johannesburg 
-      details: |
-        Observed and actively participated in the formation of artificial intelligence models within the mining sector (MinPET). Surrounded by 8 physicists, Cassi learnt programming skills (Python specific), the practical use of machine learning in industry and, familiarised herself with various fields within computer science and engineering - these include cognitive computing, image recognition, nuclear medical technology and neural networks. Cassi mainly focused on the creation of convolutional neural networks (CNN) - spending much time investigating the foundations of these models. Primarily, focus was on implementing the above skills learnt within a neuroscientific context - studying AI models relating to Epilepsy, strokes, sleep disorders, Alzheimer's disease and other neurological phenomena. The internship highly benefited in the synthesis of both humanities and scientific study - allowing Cassi to put multidisciplinary interest into practise, resulting in various ideas that once compiled can benefit neurological patients. 
+      details: Observed and actively participated in the formation of artificial intelligence models within the mining sector (MinPET). Surrounded by 8 physicists, Cassi learnt programming skills (Python specific), the practical use of machine learning in industry and, familiarised herself with various fields within computer science and engineering - these include cognitive computing, image recognition, nuclear medical technology and neural networks. Cassi mainly focused on the creation of convolutional neural networks (CNN) - spending much time investigating the foundations of these models. Primarily, focus was on implementing the above skills learnt within a neuroscientific context - studying AI models relating to Epilepsy, strokes, sleep disorders, Alzheimer's disease and other neurological phenomena. The internship highly benefited in the synthesis of both humanities and scientific study - allowing Cassi to put multidisciplinary interest into practise, resulting in various ideas that once compiled can benefit neurological patients. 
           - Bullet point
           - Bullet point
     - role: Researcher 
       time: 01/06/2018 - 01/08/2019
       company: Netcare Linksfield Hospital, Netcare Sunninghill Hospital, Netcare Linksfield Hospital 
-      details: |
-        Gained firsthand insight into all major subfields within the world of Neurology. Was able to interact with the patients, gain comprehensive and informative knowledge on upcoming and relevant fields, as well as observe the ethics, drive and expertise required for neurological and neuroscientific research. Exposed to proficient neurological assessment, treatment and real life case studies. Time was also spent observing and interpreting medical EEGs - both 20 minute and 24 hour - showcasing both epileptiform and pseudo-epilepsy. Spent various hours observing in theatre, ICU, high-care as well as  casualty/admitted inpatients and outpatients. Neurological pathology exposed to included: Dementia, Alzheimer's Disease, Cerebral Palsy, Myasthenia Gravis, Stroke (TIA, hemorrhagic and ischemic), Epilepsy, Myeloma, Headaches, Migraines, Sleep Apnea, Botoxilin, Moyamoya, Duchenne Muscular Dystrophy and more. 
+      details: Gained firsthand insight into all major subfields within the world of Neurology. Was able to interact with the patients, gain comprehensive and informative knowledge on upcoming and relevant fields, as well as observe the ethics, drive and expertise required for neurological and neuroscientific research. Exposed to proficient neurological assessment, treatment and real life case studies. Time was also spent observing and interpreting medical EEGs - both 20 minute and 24 hour - showcasing both epileptiform and pseudo-epilepsy. Spent various hours observing in theatre, ICU, high-care as well as  casualty/admitted inpatients and outpatients. Neurological pathology exposed to included; Dementia, Alzheimer's Disease, Cerebral Palsy, Myasthenia Gravis, Stroke (TIA, hemorrhagic and ischemic), Epilepsy, Myeloma, Headaches, Migraines, Sleep Apnea, Botoxilin, Moyamoya, Duchenne Muscular Dystrophy and more. 
           - Bullet point
           - Bullet point
     - role: Academic Intern
       time: 01/06/2017 - 01/08/2017
       company: Landau Lab, under Dr Ayelet Landau, Hebrew University of Jerusalem 
-      details: |
-        Assisted with the running of experiments using the Random Dot Kinematogram system within a feature attentional sampling experiment, eye-link tracking device and EEG (electroencephalogram). Gained insight and introductory level knowledge into the use of Matlab and Python coding systems. Consistent practice of ethical testing within a lab during experimentation, data saving and data collection. Underwent formal training regarding the setup of an EEG device (using both passive and active electrons) with accurate placing and readings of the brainwaves involved.
+      details: Assisted with the running of experiments using the Random Dot Kinematogram system within a feature attentional sampling experiment, eye-link tracking device and EEG (electroencephalogram). Gained insight and introductory level knowledge into the use of Matlab and Python coding systems. Consistent practice of ethical testing within a lab during experimentation, data saving and data collection. Underwent formal training regarding the setup of an EEG device (using both passive and active electrons) with accurate placing and readings of the brainwaves involved.
           - Bullet point
           - Bullet point
     - role: Aupair, Academic Tutor & Art Teacher 
       time: 01/01/2017 - 31/12/2019
       company: Netcare Linksfield Hospital, Netcare Sunninghill Hospital, Netcare Linksfield Hospital 
-      details: |
-        Teach weekly fine art lessons to 40+ children, ages of 4 -35  in my own home-grown studio. Cassi’s studio focused mainly on personal subject matter, as well as learning the foundational skills of Fine Art, together with a therapeutic undertone. Many classes were done as a form of charity work to give back to society and to children who need a creative outlet most.  A regular tutor for Grade 5-12 for all relevant academic subjects. This has helped formulate entrepreneurial skills as well as stimulate a creative outlet.  
-        Hand painted oil paintings of various subject matter, painted on commission according to order. 
+      details: Teach weekly fine art lessons to 40+ children, ages of 4 -35  in my own home-grown studio. Cassi’s studio focused mainly on personal subject matter, as well as learning the foundational skills of Fine Art, together with a therapeutic undertone. Many classes were done as a form of charity work to give back to society and to children who need a creative outlet most.  A regular tutor for Grade 5-12 for all relevant academic subjects. This has helped formulate entrepreneurial skills as well as stimulate a creative outlet.  
+      Hand painted oil paintings of various subject matter, painted on commission according to order. 
           - Bullet point
           - Bullet point
+          
  achievments and awards:
-    title: Neuroscience, Machine Learning and Addiction 
-    intro:
-     Current research project for honours' thesis is supervised by Dr Tanya Calvey, Professor Benjamin Rosman and Mr Nhanisi Ndlovu. 
-     This research project is multidisciplinary and cross faculty between the School of Anatomical Sciences and the School of Applied Mathematics and Computer Science. 
+    title: achievments and awards 
+  - award: Academic Intern
+      time: 01/06/2017 - 01/08/2017
+      description: Landau Lab, under Dr Ayelet Landau, Hebrew University of Jerusalem 
+    
     # assignments:
       #- title: Velocity
         link: "#hook"
@@ -166,32 +161,31 @@ This multidisciplinary internship was based in a biomedical engineering consulta
 
 projects:
     title: Neuroscience, Machine Learning and Addiction 
-    intro: >
-     Current research project for honours' thesis is supervised by Dr Tanya Calvey, Professor Benjamin Rosman and Mr Nhanisi Ndlovu. 
-     This research project is multidisciplinary and cross faculty between the School of Anatomical Sciences and the School of Applied Mathematics and Computer Science. 
-    # assignments:
-      #- title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    about: Current research project for honours' thesis is supervised by Dr Tanya Calvey, Professor Benjamin Rosman and Mr Nhanisi Ndlovu. 
+    This research project is multidisciplinary and cross faculty between the School of Anatomical Sciences and the School of Applied Mathematics and Computer Science. 
+    # # assignments:
+    #   #- title: Velocity
+    #     link: "#hook"
+    #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    #   - title: DevStudio
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  #  # title: Publications
+   title: Publications
   #   # intro: |
   #     You can list your publications in this section. Lorem ipsum dolor sit
   #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
